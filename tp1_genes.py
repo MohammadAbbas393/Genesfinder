@@ -1,6 +1,4 @@
 """
-CSCI150 Test Project 1
-
 Name: <Mohammad Abbas>
 Section: <A>
 """
