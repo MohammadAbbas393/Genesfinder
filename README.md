@@ -1,5 +1,3 @@
-# CSCI150 Test Project 1
-
 ## Introduction
 
 This project involves a series of functions written in Python for analyzing DNA sequences. The functions include identifying stop codons, finding open reading frames (ORFs), generating reverse complements of DNA sequences, and filtering ORFs based on their lengths. Additionally, the project includes functions for reading DNA sequences from FASTA-formatted files and writing ORFs to such files.
