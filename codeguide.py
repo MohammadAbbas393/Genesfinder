@@ -163,7 +163,7 @@ def write_fasta(filename, orfs):
 
            
 if __name__ == "__main__":
-    sequence = read_fasta("X73525.fasta.txt") #(you could change the data file for yours)
+    sequence = read_fasta("genes.txt") #(you could change the data file for yours)
     orfs = gene_finder(sequence)
     filtered_orfs = filter_orfs(orfs, 690)
     write_fasta("genes.txt", filtered_orfs)
